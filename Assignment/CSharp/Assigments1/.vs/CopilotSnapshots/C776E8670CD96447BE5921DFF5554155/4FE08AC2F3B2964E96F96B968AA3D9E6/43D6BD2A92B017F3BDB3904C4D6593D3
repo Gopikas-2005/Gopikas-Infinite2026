@@ -1,0 +1,23 @@
+﻿using System;
+
+
+namespace Assignment1
+{
+     class Equals
+    {
+        public static void Equalmethod(int number1, int number2)
+        {
+            if (number1 == number2)
+            {
+                Console.WriteLine($"Expected Output:{number1} and {number2} are equal");
+                return 0;
+            }
+            else
+            {
+                Console.WriteLine($"Expected Output:{number1} and {number2} are not equal");
+                return 0;
+            }
+        }
+
+        }
+    }

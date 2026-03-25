@@ -1,0 +1,14 @@
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.exe.config
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.pdb
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.csproj.AssemblyReference.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.csproj.CoreCompileInputs.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.pdb
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.exe.config
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.csproj.AssemblyReference.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.csproj.CoreCompileInputs.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\obj\Debug\Assigments1.pdb
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Documents\DotNet\Assignment\CSharp\Assigments1\Assigments1\bin\Debug\Assigments1.pdb
