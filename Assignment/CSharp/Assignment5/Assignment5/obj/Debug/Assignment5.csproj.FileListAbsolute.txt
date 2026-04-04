@@ -1,0 +1,7 @@
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\gopikas\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\DotNet\Assignment\CSharp\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
