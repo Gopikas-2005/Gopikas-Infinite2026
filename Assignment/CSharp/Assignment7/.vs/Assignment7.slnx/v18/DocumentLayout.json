@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assignment\\csharp\\assignment7\\assignment7\\classlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\classlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E841D-AEDB-4096-8BA5-9623FA01E584}|ClassLibrarayDll\\ClassLibrarayDll.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assignment\\csharp\\assignment7\\classlibraraydll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E841D-AEDB-4096-8BA5-9623FA01E584}|ClassLibrarayDll\\ClassLibrarayDll.csproj|solutionrelative:classlibraraydll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assignment\\csharp\\assignment7\\assignment7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assignment\\csharp\\assignment7\\assignment7\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F7A7B-20EF-4978-96AF-B9B614173F03}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\ClassLibrarayDll\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrarayDll\\Class1.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\ClassLibrarayDll\\Class1.cs",
+              "RelativeToolTip": "ClassLibrarayDll\\Class1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:12:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\ClassLibrary.cs",
+              "RelativeDocumentMoniker": "Assignment7\\ClassLibrary.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\ClassLibrary.cs",
+              "RelativeToolTip": "Assignment7\\ClassLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:01:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment7\\Employee.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\Employee.cs",
+              "RelativeToolTip": "Assignment7\\Employee.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:26:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\String.cs",
+              "RelativeDocumentMoniker": "Assignment7\\String.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\String.cs",
+              "RelativeToolTip": "Assignment7\\String.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:20:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment7\\Program.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assignment\\CSharp\\Assignment7\\Assignment7\\Program.cs",
+              "RelativeToolTip": "Assignment7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:30:47.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
