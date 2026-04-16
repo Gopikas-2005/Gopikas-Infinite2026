@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment3\\assesment3\\eventhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|solutionrelative:assesment3\\eventhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment3\\assesment3\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|solutionrelative:assesment3\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment3\\assesment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57126F20-6746-45F0-B89B-C0852EFDB20D}|Assesment3\\Assesment3.csproj|solutionrelative:assesment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventHandling.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\EventHandling.cs",
+              "RelativeDocumentMoniker": "Assesment3\\EventHandling.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\EventHandling.cs",
+              "RelativeToolTip": "Assesment3\\EventHandling.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:10:53.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\File.cs",
+              "RelativeDocumentMoniker": "Assesment3\\File.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\File.cs",
+              "RelativeToolTip": "Assesment3\\File.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:37:25.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assesment3\\Program.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment3\\Assesment3\\Program.cs",
+              "RelativeToolTip": "Assesment3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:19:36.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

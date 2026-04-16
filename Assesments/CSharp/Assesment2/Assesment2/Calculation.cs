@@ -4,18 +4,14 @@ namespace DelegateCalculator
 {
     delegate int CalculatorDelegate(int a, int b);
 
-    class Program
+    class PerformOperation
     {
-        static int Add(int a, int b) => a + b;
-        static int Subtract(int a, int b) => a - b;
-        static int Multiply(int a, int b) => a * b;
+       public   int Add(int a, int b) => a + b;
+        public  int Subtract(int a, int b) => a - b;
+        public  int Multiply(int a, int b) => a * b;
 
       
-        static void PerformOperation(int x, int y, CalculatorDelegate operation, string operationName)
-        {
-            int result = operation(x, y);
-            Console.WriteLine($"{operationName} of {x} and {y} = {result}");
-        }
+        
 
         static void Main(string[] args)
         {
@@ -24,11 +20,11 @@ namespace DelegateCalculator
 
             Console.Write("Enter second number: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
-
-            PerformOperation(num1, num2, Add, "Addition");
-            PerformOperation(num1, num2, Subtract, "Subtraction");
-            PerformOperation(num1, num2, Multiply, "Multiplication");
-
+            PerformOperation op1 = new PerformOperation();
+            op1.Add(num1,num2);
+            op1.Subtract(num1, num2);
+            op1.Multiply(num1, num2);
+            
             Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
         }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assesments\\csharp\\assesment2\\assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assesments\\csharp\\assesment2\\assesment2\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assesments\\csharp\\assesment2\\assesment2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assesments\\csharp\\assesment2\\assesment2\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\assesment2\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\dotnet\\assesments\\csharp\\assesment2\\assesment2\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\assesment2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3571479-B90E-4677-ADC7-82E565257E3C}|Assesment2\\Assesment2.csproj|solutionrelative:assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Calculation.cs",
               "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Calculation.cs",
               "RelativeDocumentMoniker": "Assesment2\\Calculation.cs",
-              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Calculation.cs",
-              "RelativeToolTip": "Assesment2\\Calculation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Calculation.cs*",
+              "RelativeToolTip": "Assesment2\\Calculation.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T05:22:39.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Exception.cs",
               "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Exception.cs",
               "RelativeDocumentMoniker": "Assesment2\\Exception.cs",
               "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Exception.cs",
               "RelativeToolTip": "Assesment2\\Exception.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:08:34.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T05:08:34.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Products.cs",
               "RelativeDocumentMoniker": "Assesment2\\Products.cs",
               "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Products.cs",
               "RelativeToolTip": "Assesment2\\Products.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:39:43.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T04:39:43.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Program.cs",
               "RelativeDocumentMoniker": "Assesment2\\Program.cs",
               "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\DotNet\\Assesments\\CSharp\\Assesment2\\Assesment2\\Program.cs",
               "RelativeToolTip": "Assesment2\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:16:50.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T04:16:50.039Z"
             }
           ]
         }
