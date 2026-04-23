@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB19C38-EDEF-404D-AF5B-631F9F82A66E}|Factory Method\\Factory Method.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment4\\factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB19C38-EDEF-404D-AF5B-631F9F82A66E}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB19C38-EDEF-404D-AF5B-631F9F82A66E}|Factory Method\\Factory Method.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment4\\factory method\\implementations\\tabularfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB19C38-EDEF-404D-AF5B-631F9F82A66E}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\implementations\\tabularfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFEB9AD-1398-4590-AE13-FE011DE4CA70}|Assesment4\\Assesment4.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment4\\assesment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFEB9AD-1398-4590-AE13-FE011DE4CA70}|Assesment4\\Assesment4.csproj|solutionrelative:assesment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFEB9AD-1398-4590-AE13-FE011DE4CA70}|Assesment4\\Assesment4.csproj|c:\\users\\gopikas\\onedrive - infinite computer solutions (india) limited\\desktop\\assesment4\\assesment4\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFEB9AD-1398-4590-AE13-FE011DE4CA70}|Assesment4\\Assesment4.csproj|solutionrelative:assesment4\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Factory Method\\Program.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Program.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Factory Method\\Program.cs",
+              "RelativeToolTip": "Factory Method\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:57:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabularFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Factory Method\\Implementations\\TabularFactory.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Implementations\\TabularFactory.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Factory Method\\Implementations\\TabularFactory.cs",
+              "RelativeToolTip": "Factory Method\\Implementations\\TabularFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:57:22.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Linq.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Assesment4\\Linq.cs",
+              "RelativeDocumentMoniker": "Assesment4\\Linq.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Assesment4\\Linq.cs",
+              "RelativeToolTip": "Assesment4\\Linq.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:35:07.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Assesment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assesment4\\Program.cs",
+              "ToolTip": "C:\\Users\\gopikas\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\Assesment4\\Assesment4\\Program.cs",
+              "RelativeToolTip": "Assesment4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:52:45.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
